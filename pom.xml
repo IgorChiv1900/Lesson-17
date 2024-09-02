@@ -8,6 +8,15 @@
     <artifactId>Lesson-17</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependensys>
+        <dependensy>
+            <groopId>io.rest-assured</groopId>
+            <artifactId>rest-assured</artifactId>
+            <version>3.1.0</version>
+            <scop>test</scop>
+        </dependensy>
+    </dependensys>
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
@@ -15,3 +24,4 @@
     </properties>
 
 </project>
+
